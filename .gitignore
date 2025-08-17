@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.vscode/
+
+# IDE specific
+.idea/
+.DS_Store
